@@ -4,7 +4,7 @@
 
 Tensor library for machine learning
 
-***Note that this project is under active development. \
+Note that this project is under active development.
 
 ## Features
 
