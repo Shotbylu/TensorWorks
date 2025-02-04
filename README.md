@@ -98,8 +98,3 @@ cd /data/local/tmp
 export LD_LIBRARY_PATH=/data/local/tmp
 ./bin/gpt-2-backend -m models/ggml-model.bin -p "this is an example"
 ```
-
-## Resources
-
-- [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
-- [The GGUF file format](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md)
